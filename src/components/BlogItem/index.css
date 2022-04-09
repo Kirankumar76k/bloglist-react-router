@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.name-time-container {
+  display: flex;
+  justify-content: space-between;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+}
+.name-head {
+  font-size: 20px;
+  font-weight: 700;
+}
+.publish-date {
+  color: #9aa5b1;
+}
+.description-item {
+  color: #9aa5b1;
+}
